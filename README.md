@@ -1,6 +1,6 @@
 # 🤖  안녕하세요. 저는 kera9960 입니다. 🐯
 
-[![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2F<kera9960>&label=Visitors&icon=github&color=1f6feb&message=1)](https://hitscounter.dev)
+[![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fkera9960&label=Visitors&icon=github&color=1f6feb&message=1)](https://hitscounter.dev)
 
 ### Get in Touch
 
